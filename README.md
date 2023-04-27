@@ -1,7 +1,7 @@
 ### Hi, I'm Grace! 😄
 
-Here is the latest
-
+Here is the latest scoop on me:
+💻 CS and Math Undergrad @ UofT 🤖 Passionate about robotics and artificial intelligence 👩🏾‍💼 Currently working on machine learning projects in hopes of advancing biomedical imaging techniques 
 
 <!--
 **gracefarbin/gracefarbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
