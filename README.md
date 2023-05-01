@@ -1,4 +1,4 @@
-### Hi, I'm Grace! 😄
+### Hi, I'm Mahzuzah! 😄
 
 Here is the latest scoop on me:
 
